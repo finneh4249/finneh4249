@@ -6,7 +6,7 @@
 - 📫 How to reach me: ethanc@aometry.design
 - 😄 Pronouns: He/Him, They/Them, She/Her
 
-![Finneh4249's GitHub stats](https://github-readme-stats.vercel.app/api?username=finneh4249&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enroute-Transport&layout=compact)
+![Finneh4249's GitHub stats](https://github-readme-stats.vercel.app/api?username=finneh4249&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finneh4249&layout=compact)
 
 
 
