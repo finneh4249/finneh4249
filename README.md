@@ -1,16 +1,19 @@
+
 ### Hi there 👋
 
-<!--
-**finneh4249/finneh4249** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Aometry](https://github.com/Enroute-Transport/Aometry)
+- 🌱 I’m currently learning Javascript (while also coding in it somehow)
+- 📫 How to reach me: ethanc@aometry.design
+- 😄 Pronouns: He/Him, They/Them, She/Her
 
-Here are some ideas to get you started:
+![Finneh4249's GitHub stats](https://github-readme-stats.vercel.app/api?username=finneh4249&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finneh4249&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+</a>
+<a href="https://github.com/Enroute-Transport/Aometry">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enroute-Transport&repo=Aometry" />
+</a>
+<a href="https://github.com/Enroute-Transport/Aometry-Design-Studios">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Enroute-Transport&repo=Aometry-Design-Studios" />
+</a>
