@@ -1,9 +1,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Aometry](https://github.com/Enroute-Transport/Aometry)
-- 🌱 I’m currently learning Javascript (while also coding in it somehow)
-- 📫 How to reach me: ethanc@aometry.design
+- 🔭 I’m currently working on [WebUrbanists](https://github.com/weburbanists.com/website)
+- 📫 How to reach me: finneh@weburbanists.com
 - 😄 Pronouns: He/Him, They/Them, She/Her
 
 ![Finneh4249's GitHub stats](https://github-readme-stats.vercel.app/api?username=finneh4249&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finneh4249&layout=compact)
