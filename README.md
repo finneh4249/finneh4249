@@ -6,3 +6,5 @@ I'm a passionate developer working on innovative projects. My work involves crea
 
 📫 Reach out to me at mail@finneh.xyz for collaborations or just to say hi.
 
+![finneh4249's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finneh4249&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
