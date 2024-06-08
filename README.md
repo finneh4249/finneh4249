@@ -3,7 +3,7 @@
 # Hi there, I'm Ethan
 
 [![Website](https://img.shields.io/badge/finneh.xyz-grey?style=for-the-badge&url=https%3A%2F%2Ffinneh.xyz)](https://finneh.xyz/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ethan-cornwill/)](https://www.linkedin.com/in/ethan-cornwill/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/ethan-cornwill/)](https://www.linkedin.com/in/ethancornwill/)
 
 :school: Currently studying Information Technology at Coder Academy
 
