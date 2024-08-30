@@ -7,7 +7,7 @@
 
 :school: Currently studying Information Technology at Coder Academy
 
-🚀 Currently, I'm focused on developing PokerBo, a unique blend of Poker and SicBo, City Loopers, and Aometry, a versatile Discord bot designed to enhance user experience. I'm always on the lookout for new technologies and strategies to push the boundaries of what's possible in software development.
+🚀 Currently, I'm focused on studying my Diploma of IT, I've also just embarked on an ambitious project to recreate the popular flash game, SmallWorlds with my new project [TinyTowns](https:/github.com/FinnehGames/TinyTowns). I'm always on the lookout for new technologies and strategies to push the boundaries of what's possible in software development.
 
 📫 Reach out to me at mail@finneh.xyz for collaborations or just to say hi.
 
