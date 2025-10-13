@@ -6,22 +6,25 @@ I bring a unique blend of high-volume operational excellence and technical devel
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ethancornwill)
 [![Portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Safari&logoColor=white)](https://finneh.xyz)
+[![Axion Ventures](https://img.shields.io/badge/Axion%20Ventures-0ea5a4?style=for-the-badge&logoColor=white)](https://axionventures.com.au)
 
 ## 💻 Tech Stack
 ### AI / Prompt Engineering
 #### LLM Architecture
-- CO-STAR
-- CRISPE
-- ReAct (Reason + Act)
-- Tree of Thoughts (ToT)
-- Chain-of-Thought (CoT)
+![CO-STAR](https://img.shields.io/badge/-CO%20STAR-0066ff?style=for-the-badge) 
+![CRISPE](https://img.shields.io/badge/-CRISPE-7bbf6a?style=for-the-badge) 
+![ReAct](https://img.shields.io/badge/-ReAct-ffb84d?style=for-the-badge) 
+![Tree of Thoughts (ToT)](https://img.shields.io/badge/-Tree%20of%20Thoughts%20(ToT)-9b59b6?style=for-the-badge) 
+![Chain-of-Thought (CoT)](https://img.shields.io/badge/-Chain-of-Thought%20(CoT)-f39c12?style=for-the-badge)
+
 #### AI Workflow
-- Retrieval-Augmented Generation (RAG)
-- Self-Consistency
+![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/-Retrieval-Augmented%20Generation%20(RAG)-1abc9c?style=for-the-badge) 
+![Self-Consistency](https://img.shields.io/badge/-Self-Consistency-2ecc71?style=for-the-badge)
+
 #### MLOps
-- Automated Prompt Evaluation (APE)
-- Prompt Versioning
-- Regression Testing
+![Automated Prompt Evaluation (APE)](https://img.shields.io/badge/-Automated%20Prompt%20Evaluation%20(APE)-e74c3c?style=for-the-badge) 
+![Prompt Versioning](https://img.shields.io/badge/-Prompt%20Versioning-34495e?style=for-the-badge) 
+![Regression Testing](https://img.shields.io/badge/-Regression%20Testing-8e44ad?style=for-the-badge)
 
   ### Web Development
 
@@ -43,7 +46,7 @@ I bring a unique blend of high-volume operational excellence and technical devel
 
 ## 🔭 Current Projects
 
-- **Axion Venture Studio**: Founder and Systems Architect, serving as the formal, non-incorporated structure to hold and develop all Intellectual Property (IP), including SPARC and Nexus.
+- **Axion Ventures**: Founder and Systems Architect, serving as the formal, non-incorporated structure to hold and develop all Intellectual Property (IP), including SPARC and Nexus.
 - **SPARC**: Proprietary AI development engine. Architected a model-agnostic framework featuring advanced prompt engineering (CO-STAR, ReAct, CoT) to automate the software development lifecycle. Used to generate and deploy two complete full-stack websites, including my portfolio (finneh.xyz) and the MagnetLab corporate site.
 - **Nexus**: A financial wellness application for couples designed to eliminate financial friction through clarity and mutual consent, built on a unique Anti-Coercion Framework and Resilience Engine. It is the user's strategic priority solo project.
 - **PokerBo**: Casino card game combining Poker and Sicbo elements.
@@ -59,7 +62,7 @@ I bring a unique blend of high-volume operational excellence and technical devel
 
 ## 💼 Professional Experience
 
-- **Founder & Systems Architect (Axion Venture Studio)** *(Oct 2025 – Present)*
+- **Founder & Systems Architect (Axion Ventures)** *(Oct 2025 – Present)*
     *   Established a formal venture studio structure to consolidate and manage all Intellectual Property (IP) for ongoing projects (SPARC, Nexus).
     *   Structured the organization (operating under sole trader ABN) to house future innovation and development efforts.
     *   Decoupled core technology (SPARC) from individual project success, ensuring strategic learning and architecture is leveraged across all future initiatives.
@@ -89,3 +92,4 @@ I bring a unique blend of high-volume operational excellence and technical devel
 ---
 
 ⭐️ From [finneh4249](https://github.com/finneh4249)
+- 
