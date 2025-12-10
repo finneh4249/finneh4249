@@ -53,12 +53,6 @@ I bring a unique blend of high-volume operational excellence and technical devel
 - **Aometry**: Modular Discord bot framework built on Discord.JS v14, designed for developers and server owners.
 - **Portfolio Website**: A modern React-based portfolio with Framer Motion animations and Tailwind CSS (Generated using the SPARC engine).
 
-## 📊 GitHub Stats
-
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=finneh4249&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finneh4249&layout=compact&theme=tokyonight)
-
 
 ## 💼 Professional Experience
 
